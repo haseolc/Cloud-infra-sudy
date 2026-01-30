@@ -136,4 +136,22 @@
 > GitHub Actions를 활용해 전체 과정을 자동화하는 것을 목표로 한다.
 > 
 
-[개념](https://www.notion.so/2f7529b34405804ba335f74d514011cd?pvs=21)
+<details>
+<summary>📂 개념 정리 문서 전체 보기 (1 ~ 11)</summary>
+
+- [0️⃣ 전체 큰 그림 – 서비스 운영의 본질](concepts/00_overview.md)
+
+- [1️⃣ 클라우드 & 인프라 기초](concepts/01_cloud_basic.md)
+- [2️⃣ IaC (Infrastructure as Code) & Terraform](concepts/02_iac_terraform.md)
+- [3️⃣ Linux 서버 운영 기초 (Ubuntu)](concepts/03_linux.md)
+- [4️⃣ Docker & 컨테이너](concepts/04_docker.md)
+- [5️⃣ Kubernetes (핵심 운영 개념)](concepts/05_kubernetes.md)
+- [6️⃣ YAML & 선언형 설정](concepts/06_yaml.md)
+- [7️⃣ CI/CD & 자동화](concepts/07_cicd.md)
+- [8️⃣ 보안 개념 (Ingress 중심)](concepts/08_security.md)
+- [9️⃣ 백업 개념 (프로젝트 핵심)](concepts/09_backup.md)
+- [🔟 모니터링 & 운영](concepts/10_monitoring.md)
+- [1️⃣1️⃣ 장애 & 복구 시나리오](concepts/11_disaster_recovery.md)
+
+</details>
+
