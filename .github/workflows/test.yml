@@ -1,0 +1,16 @@
+name: First Workflow
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Hello 출력
+        run: echo "GitHub Actions 정상 동작!"
